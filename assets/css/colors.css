@@ -17,6 +17,7 @@
     /* gray colors */
     --c-blue-gray:#888ea8;
     --c-gray : #888ea8;
+    --c-blue:rgb(33, 150, 243);
     --c-shadow-gray: #3b3f5c;
     --c-navy-gray:#515365;
     --c-royal-blue:#4361ee;
@@ -29,7 +30,6 @@
     --c-dark-lavender:#805dca;
 
     /* shadow colors */
-    --c-blue:rgb(33, 150, 243);
     --c-shadow-gray:rgba(81, 83, 101, 0.28);
     --c-slate-gray:rgba(96, 125, 139, 0.54);
     --c-light-shadow:rgba(255, 255, 255, 0.2);
