@@ -14,7 +14,6 @@
     flex-wrap: wrap;
     height: var(--h-full);
     width: var(--w-full);
-    overflow-y: auto;
 }
 
 .note-card {
